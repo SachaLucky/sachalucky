@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's SachaLucky!
 
 <!--
 **SachaLucky/sachalucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 !-->
 
--It's SachaLucky! I learn HTML, CSS, Python!
+## I'm learning: HTML, CSS, Python
