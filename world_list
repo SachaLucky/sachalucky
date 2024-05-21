@@ -2,10 +2,12 @@ name: simulation [By 2M3V];
 id: 86900
 ↓
 name: weapon infection [By DominosMersi];
-id: 28349
+id: 28349;
+icon: netherite_sword
 ↓
 name: Командные битвы [By SachaLucky];
-id: 93977
+id: 93977;
+icon: magenta_wool
 ↓
 name: BrawlStars [By andrey67];
 id: 86622
@@ -17,22 +19,27 @@ name: WormTown [By yyyaaa, unidok];
 id: 8309
 ↓
 name: Overcooked [By Kakoy_Kit_Just];
-id: 68866
+id: 68866;
+icon: cooked_beaf
 ↓
 name: MobArena [By White_wolf__];
-id: 45555
+id: 45555;
+icon: zombie_spawn_egg
 ↓
 name: Заморозки [By Chupsa_Danill_rab];
-id: 85416
+id: 85416;
+icon: packed_ice
 ↓
 name: FootBall (полное название: чемпионат мира по незерболлу) [By Benpol];
 id: 77799
 ↓
 name: SeaBattle [By DominosMersi];
-id: 36741
+id: 36741;
+icon: boat
 ↓
 name: DUELS [By IceGolem];
-id: 90249
+id: 90249;
+icon: golden_sword
 ↓
 name: QUAKE [By rqbik];
 id: 2859
@@ -41,10 +48,12 @@ name: Тетрис [By Darity80];
 id: 33368
 ↓
 name: Doors [By CreateMod_TOP];
-id: 57571
+id: 57571;
+icon: wooden_door
 ↓
 name: OutCast (скоро какой-то изгой)  [By ItzRequin];
 id: 52000
 ↓
 name: Муравейник
-id: 104450
+id: 104450;
+icon: dirt
